@@ -1,0 +1,24 @@
+2024-06-26 11:07:05 | INFO | Registrazione avvenuta con successo | User: sophi | IP: ::1
+2024-06-26 11:07:08 | INFO | Logout effettuato | User: sophi | IP: ::1
+2024-06-26 11:07:27 | INFO | Registrazione avvenuta con successo | User: jade | IP: ::1
+2024-06-26 11:07:30 | INFO | Logout effettuato | User: jade | IP: ::1
+2024-06-26 11:08:40 | INFO | Registrazione avvenuta con successo | User: pippo | IP: ::1
+2024-06-26 11:08:41 | INFO | Logout effettuato | User: pippo | IP: ::1
+2024-06-26 11:09:12 | INFO | Registrazione avvenuta con successo | User: mary | IP: ::1
+2024-06-26 11:09:15 | INFO | Logout effettuato | User: mary | IP: ::1
+2024-06-26 11:13:36 | INFO | Registrazione avvenuta con successo | User: chiara | IP: 127.0.0.1
+2024-06-26 11:13:38 | INFO | Logout effettuato | User: chiara | IP: 127.0.0.1
+2024-06-26 11:13:44 | INFO | Accesso riuscito | User: chiara | IP: 127.0.0.1
+2024-06-26 11:13:53 | INFO | Account rimosso | User: chiara | IP: 127.0.0.1
+2024-06-26 11:14:37 | ERROR | Accesso negato | User: sophi | IP: ::1
+2024-06-26 17:11:09 | ERROR | Accesso negato | User: a | IP: ::1
+2024-06-26 17:11:12 | ERROR | Accesso negato | User: a | IP: ::1
+2024-06-27 22:07:28 | ERROR | Accesso negato | User: jade | IP: 127.0.0.1
+2024-06-27 22:07:33 | ERROR | Accesso negato | User: jade | IP: 127.0.0.1
+2024-06-27 22:07:37 | ERROR | Accesso negato | User: jade | IP: 127.0.0.1
+2024-06-27 22:08:28 | ERROR | Accesso negato | User: jade | IP: 127.0.0.1
+2024-06-27 22:09:55 | INFO | Accesso riuscito | User: jade | IP: 127.0.0.1
+2024-07-02 15:57:02 | ERROR | Accesso negato | User: a | IP: 127.0.0.1
+2024-07-02 15:57:45 | ERROR | Accesso negato | User: a | IP: 127.0.0.1
+2024-07-02 15:58:14 | ERROR | Accesso negato | User: jade  IP: 127.0.0.1\n20240627 22:09:55  INFO  Accesso riuscito  User: jade | IP: 127.0.0.1
+2024-07-02 15:59:00 | ERROR | Accesso negato | User: a | IP: 127.0.0.1
